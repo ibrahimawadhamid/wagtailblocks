@@ -1,2 +1,2 @@
-wagtail>=4.1
+wagtail>=5.2
 wagtail-font-awesome-svg
